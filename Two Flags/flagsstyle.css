@@ -1,0 +1,43 @@
+* {
+    margin: 5px 5px;
+}
+
+#container1 {
+    display: flex;
+    width: 500px;
+    height: 300px;
+    background-color: green;
+    margin-left: 430px;
+}
+
+.box1 {
+    background-color: white;
+    height: 300px;
+    width: 160px;
+    margin-left: 170px;
+    margin-top: 0px;
+}
+
+#container2 {
+    width: 510px;
+    height: 300px;
+    margin-left: 425px;
+}
+
+.box2 {
+    background-color: #FCD116;
+    height: 180px;
+}
+
+.box3 {
+    background-color: #003893;
+    height: 65px;
+    margin-top: -6px;
+}
+
+.box4 {
+    background-color: #CE1126;
+    height: 60px;
+    margin-top: -6px;
+    margin-bottom: 30px;
+}
